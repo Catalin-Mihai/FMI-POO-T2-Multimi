@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1554590054 source:e:\proiecte\tema 2 - poo\main.cpp
+	<iostream>
+	"Pereche.h"
+	"Multime_Pereche.h"
+	"Stiva_Pereche.h"
+	"Coada_Pereche.h"
+
+1554579724 source:e:\proiecte\tema 2 - poo\src\pereche.cpp
+	"Pereche.h"
+
+1554409782 e:\proiecte\tema 2 - poo\include\pereche.h
+	<iostream>
+
+1554590722 source:e:\proiecte\tema 2 - poo\src\multime_pereche.cpp
+	"Multime_Pereche.h"
+
+1554590578 e:\proiecte\tema 2 - poo\include\multime_pereche.h
+	"Pereche.h"
+
+1554590701 source:e:\proiecte\tema 2 - poo\src\stiva_pereche.cpp
+	"Stiva_Pereche.h"
+
+1554590693 e:\proiecte\tema 2 - poo\include\stiva_pereche.h
+	"Multime_Pereche.h"
+
+1554590653 source:e:\proiecte\tema 2 - poo\src\coada_pereche.cpp
+	"Coada_Pereche.h"
+
+1554590650 e:\proiecte\tema 2 - poo\include\coada_pereche.h
+	"Multime_Pereche.h"
+
